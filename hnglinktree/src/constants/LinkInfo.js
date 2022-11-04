@@ -39,7 +39,8 @@ const links = [
         linkText: "Contact Me",
         linkID: "contact",
         key: 7,
-        linkTo: "https://books.zuri.team/design-rules"
+        linkTo: "/contact"
+
     }
 ]
 
