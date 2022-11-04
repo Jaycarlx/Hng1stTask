@@ -1,12 +1,12 @@
 import React from 'react'
 import links from '../constants/LinkInfo'
-import Link from '../constants/Link'
+import Linkitem from '../constants/Linkitem'
 
 const AnchorItem = () => {
   return (
     <main>
         <div className="links">
-            {links.map(Link)}
+            {links.map(Linkitem)}
         </div>
     </main>
   )
