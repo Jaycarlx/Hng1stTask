@@ -34,6 +34,12 @@ const links = [
         linkID: "book__design",
         key: 6,
         linkTo: "https://books.zuri.team/design-rules"
+    },
+    {
+        linkText: "Contact Me",
+        linkID: "contact",
+        key: 7,
+        linkTo: "https://books.zuri.team/design-rules"
     }
 ]
 
